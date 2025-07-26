@@ -1,0 +1,1 @@
+netsh wlan show networks mode=bssid | Out-File wifi-ssid.txt

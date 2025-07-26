@@ -1,0 +1,1 @@
+ipconfig /all | Select-String "DNS Servers" -Context 0,1 | Out-File dns-info.txt

@@ -1,0 +1,1 @@
+netstat -an | Select-String "LISTENING" | Out-File open-ports.txt

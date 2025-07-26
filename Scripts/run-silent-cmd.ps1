@@ -1,0 +1,1 @@
+Start-Process cmd.exe -WindowStyle Hidden -ArgumentList "/c calc.exe"

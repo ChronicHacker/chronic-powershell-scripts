@@ -1,0 +1,1 @@
+$host.ui.RawUI.WindowTitle = "Notepad"

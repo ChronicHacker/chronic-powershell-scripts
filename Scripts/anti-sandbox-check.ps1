@@ -1,0 +1,1 @@
+$cpus = (Get-WmiObject Win32_ComputerSystem).NumberOfLogicalProcessors; if ($cpus -lt 2) { "Sandbox Detected!" }

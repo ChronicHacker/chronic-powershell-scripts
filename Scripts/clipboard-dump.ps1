@@ -1,0 +1,1 @@
+Get-Clipboard | Out-File clipboard.txt

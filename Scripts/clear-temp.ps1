@@ -1,0 +1,1 @@
+Remove-Item "$env:TEMP\*" -Recurse -Force -ErrorAction SilentlyContinue

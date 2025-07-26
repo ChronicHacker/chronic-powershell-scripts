@@ -1,0 +1,1 @@
+Get-ScheduledTask | Out-File tasks.txt

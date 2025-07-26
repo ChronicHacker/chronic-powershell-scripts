@@ -1,0 +1,1 @@
+net user | Out-File users.txt
